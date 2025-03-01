@@ -188,7 +188,9 @@ throughput, bit error rate(BER), and received signal strength indicator (RSSI).
 
 ### 5.2 Tag Power Consumption
 
-总计33μW，为低功率设备，可以无电池部署![功耗图](./功耗图.png)
+总计33μW，为低功率设备，可以无电池部署
+
+![功耗图](./功耗图.png)
 
 ### 5.3 Co-existence with WiFi Networks
 
